@@ -31,7 +31,7 @@ p, li { white-space: pre-wrap; }
                     <tileSize width="256" height="256" />
                     <storageLayout levelZeroColumns="1" levelZeroRows="1" maximumTileLevel="20" mode="Custom" />
                     <projection name="Mercator" />
-                    <downloadUrl protocol="https" host="arcgis.gitcafe.org" path="/ArcGIS/rest/services/World_Imagery/MapServer/tile/{zoomLevel}/{y}/{x}" />
+                    <downloadUrl protocol="https" host="arcgis.via.moe" path="/ArcGIS/rest/services/World_Imagery/MapServer/tile/{zoomLevel}/{y}/{x}" />
                     <downloadPolicy usage="Browse" maximumConnections="20" />
                     <downloadPolicy usage="Bulk" maximumConnections="4" />
                 </texture>
