@@ -2,7 +2,7 @@
 <dgml xmlns="http://edu.kde.org/marble/dgml/2.0">
     <document>
         <head>
-            <name>Google Maps Satellite</name>
+            <name>Arcgis Satellite</name>
             <target>earth</target>
             <theme>arcgis-sat</theme>
 			<!-- The license here applies to the actual map content, not this dgml file. See the license header above for the dgml file license -->

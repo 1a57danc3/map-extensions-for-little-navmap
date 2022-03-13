@@ -2,9 +2,9 @@
 <dgml xmlns="http://edu.kde.org/marble/dgml/2.0">
     <document>
         <head>
-            <name>Google Maps</name>
+            <name>Google Maps Def CF</name>
             <target>earth</target>
-            <theme>google-maps-def-cf-cf</theme>
+            <theme>google-maps-def-cf</theme>
             <visible>true</visible>
 			<!-- The license here applies to the actual map content, not this dgml file. See the license header above for the dgml file license -->
 			<!-- The content that this license refers to is not distributed with this package -->
