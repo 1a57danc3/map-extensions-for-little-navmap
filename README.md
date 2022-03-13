@@ -36,3 +36,20 @@ https://flightsim.to/file/13899/littlenavmapofmtheme
 https://www.bilibili.com/video/BV1hi4y1N7xS/
 
 https://github.com/derekhe/msfs2020-map-enhancement
+
+
+-----
+Thanks for Cloudflare worker
+
+```
+addEventListener(
+	"fetch",event => {
+		let url=new URL(event.request.url);
+		url.hostname="tiles.satellite.image";
+		let request=new Request(url,event.request);
+		event. respondWith(
+			fetch(request)
+		)
+	}
+)
+```
