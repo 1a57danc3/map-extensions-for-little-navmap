@@ -13,6 +13,7 @@ This repo includes many custom maps for Little Navmap :
 * Sweden Topographic Maps
 * Finland Topographic Maps
 * Open Street Maps
+* Open Flight Maps
 * Arcgis
 
 To use the maps:
