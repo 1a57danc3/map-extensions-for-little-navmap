@@ -1,4 +1,4 @@
-This repo includes many custom maps for Little Navmap :
+This repo includes many custom maps for Little Navmap 2.7.x :
 
 * Google Maps (Default)
 * Google Maps (Satellite)
@@ -18,11 +18,11 @@ This repo includes many custom maps for Little Navmap :
 
 To use the maps:
 
-1 - make sure Little Navmap is closed
+1 - make sure Little Navmap is closed.
 
 2 - drop the 'data' folder inside the zip-file into the root Little Navmap folder, overwrite when asked.
 
-3 - run Little Navmap and select one of the above maps from the drop-down menu 'Select map theme' located at the top right corner above the Map window. All custom maps are prefixed by an asterisk (*) symbol.
+3 - run Little Navmap and select one of the above maps from the drop-down menu 'Select map theme' located at the top right corner above the Map window.
 
 Enjoy!
 
