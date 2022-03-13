@@ -31,6 +31,8 @@ Credit
 
 https://flightsim.to/file/6411/map-extensions-for-little-navmap-lnm
 
+https://flightsim.to/file/13899/littlenavmapofmtheme
+
 https://www.bilibili.com/video/BV1hi4y1N7xS/
 
 https://github.com/derekhe/msfs2020-map-enhancement
