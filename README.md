@@ -15,6 +15,7 @@ This repo includes many custom maps for Little Navmap 2.7.x :
 * Open Street Maps
 * Open Flight Maps
 * Arcgis
+* IGN Géoservices
 
 To use the maps:
 
@@ -38,6 +39,7 @@ https://www.bilibili.com/video/BV1xP4y1A7Ky
 
 https://github.com/derekhe/msfs2020-map-enhancement
 
+https://github.com/albar965/littlenavmap/issues/479#issuecomment-1117965128
 
 -----
 Thanks for Cloudflare worker
