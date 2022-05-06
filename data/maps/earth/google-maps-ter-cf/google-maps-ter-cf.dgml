@@ -31,9 +31,9 @@ p, li { white-space: pre-wrap; }
                     <tileSize width="256" height="256" />
                     <storageLayout levelZeroColumns="1" levelZeroRows="1" maximumTileLevel="15" mode="Custom" />
                     <projection name="Mercator" />
-                    <downloadUrl protocol="https" host="mt1-google.starlinks.workers.dev" path="/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={zoomLevel}" />
-                    <downloadUrl protocol="https" host="mt2-google.starlinks.workers.dev" path="/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={zoomLevel}" />
-                    <downloadUrl protocol="https" host="mt3-google.starlinks.workers.dev" path="/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={zoomLevel}" />
+                    <downloadUrl protocol="https" host="mt1-google.starlinks.workers.dev" path="/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={zoomLevel}&amp;hl=en" />
+                    <downloadUrl protocol="https" host="mt2-google.starlinks.workers.dev" path="/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={zoomLevel}&amp;hl=en" />
+                    <downloadUrl protocol="https" host="mt3-google.starlinks.workers.dev" path="/vt/lyrs=p&amp;x={x}&amp;y={y}&amp;z={zoomLevel}&amp;hl=en" />
                     <downloadPolicy usage="Browse" maximumConnections="20" />
                     <downloadPolicy usage="Bulk" maximumConnections="4" />
                 </texture>
