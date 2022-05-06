@@ -31,6 +31,8 @@ Enjoy!
 
 Credit
 
+https://www.avsim.com/forums/topic/548994-new-maps-for-lnm/
+
 https://flightsim.to/file/6411/map-extensions-for-little-navmap-lnm
 
 https://flightsim.to/file/13899/littlenavmapofmtheme
