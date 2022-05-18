@@ -3,6 +3,14 @@ This repo includes many custom maps for Little Navmap 2.7.x :
 * Google Maps (Default)
 * Google Maps (Satellite)
 * Google Maps (Terrain)
+* Mapbox Streets
+* Mapbox Outdoors
+* Mapbox Light
+* Mapbox Dark
+* Mapbox Satellite
+* Mapbox Satellite Streets
+* Mapbox Navigation Day
+* Mapbox Navigation Night
 * U.S. VFR Sectionals
 * U.S. IFR Enroute Low
 * U.S. IFR Enroute High
@@ -42,6 +50,8 @@ https://www.bilibili.com/video/BV1xP4y1A7Ky
 https://github.com/derekhe/msfs2020-map-enhancement
 
 https://github.com/albar965/littlenavmap/issues/479#issuecomment-1117965128
+
+https://docs.mapbox.com/api/maps/styles/
 
 -----
 Thanks for Cloudflare worker
