@@ -10,7 +10,7 @@
       <!-- The license here applies to the actual map content, not this dgml file. See the license header above for the dgml file license -->
       <!-- The content that this license refers to is not distributed with this package -->
       <license short="© Mapbox and OpenStreetMap contributors">Source: © OpenStreetMap contributors, License: Creative Commons Attribution-ShareAlike 2.0 (CC BY-SA)</license>
-      <name>Mapbox Navigation mapbox-navigation-night</name>
+      <name>Mapbox Navigation Night</name>
       <target>earth</target>
       <theme>mapbox-navigation-night</theme>
       <icon pixmap="mapbox-navigation-night-preview.png"/>
