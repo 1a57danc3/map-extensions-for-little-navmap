@@ -56,6 +56,8 @@ https://docs.mapbox.com/api/maps/styles/
 -----
 Thanks for Cloudflare worker
 
+Script:
+
 ```
 addEventListener(
 	"fetch",event => {
