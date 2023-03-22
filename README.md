@@ -1,4 +1,4 @@
-This repo includes many custom maps for Little Navmap 2.7.x :
+This repo includes many custom maps for Little Navmap 2.8.x :
 
 * Google Maps (Default)
 * Google Maps (Satellite)
@@ -33,11 +33,11 @@ To use the maps:
 
 3. run Little Navmap and select one of the above maps from the drop-down menu 'Select map theme' located at the top right corner above the Map window.
 
-Enjoy!
+Enjoy! 
 
 ------
 
-Credit
+# Credit
 
 https://www.avsim.com/forums/topic/548994-new-maps-for-lnm/
 
@@ -47,16 +47,15 @@ https://flightsim.to/file/13899/littlenavmapofmtheme
 
 https://www.bilibili.com/video/BV1xP4y1A7Ky
 
-https://github.com/derekhe/msfs2020-map-enhancement
-
 https://github.com/albar965/littlenavmap/issues/479#issuecomment-1117965128
 
 https://docs.mapbox.com/api/maps/styles/
 
 -----
-Thanks for Cloudflare worker
 
-Script:
+Thanks for `Cloudflare worker`
+
+Porxy Script:
 
 ```
 addEventListener(
@@ -70,3 +69,5 @@ addEventListener(
 	}
 )
 ```
+
+Some maps preview in [Viamap](https://maps.via.moe/)

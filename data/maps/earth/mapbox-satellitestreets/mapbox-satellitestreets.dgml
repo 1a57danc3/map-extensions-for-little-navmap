@@ -10,7 +10,7 @@
       <!-- The license here applies to the actual map content, not this dgml file. See the license header above for the dgml file license -->
       <!-- The content that this license refers to is not distributed with this package -->
       <license short="© Mapbox and OpenStreetMap contributors">Source: © OpenStreetMap contributors, License: Creative Commons Attribution-ShareAlike 2.0 (CC BY-SA)</license>
-      <name>Mapbox Satellite Streets</name>
+      <name>Mapbox Satellite Streets (Viamap)</name>
       <target>earth</target>
       <theme>mapbox-satellitestreets</theme>
       <icon pixmap="mapbox-satellitestreets-preview.png"/>
@@ -34,7 +34,7 @@
           <storageLayout levelZeroColumns="1" levelZeroRows="1" maximumTileLevel="19" mode="Custom"/>
           <projection name="Mercator"/>
 
-          <downloadUrl protocol="https" host="api.mapbox.com" path="/styles/v1/mapbox/satellite-streets-v12/tiles/512/{z}/{x}/{y}?access_token={Mapbox Token}" />
+          <downloadUrl protocol="https" host="api.mapbox.com" path="/styles/v1/mapbox/satellite-streets-v12/tiles/512/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw" />
 
           <!-- Use 2 to adapt to OSM requirements http://wiki.openstreetmap.org/wiki/Tile_usage_policy -->
           <downloadPolicy usage="Browse" maximumConnections="4"/>
