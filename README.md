@@ -72,4 +72,4 @@ addEventListener(
 )
 ```
 
-Some maps preview in [Viamap](https://maps.via.moe/)
+More charts please visit [https://via.moe/charts/](https://via.moe/charts/)
