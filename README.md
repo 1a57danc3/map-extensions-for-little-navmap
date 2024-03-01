@@ -1,4 +1,4 @@
-![](https://cdn.via.moe/file/viamoe/img/lnm-tool.jpg)
+![](https://cdn.via.moe/img/lnm-tool.jpg)
 
 This repo includes many custom maps for Little Navmap 2.8.x :
 
