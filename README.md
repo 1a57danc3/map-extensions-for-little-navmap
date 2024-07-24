@@ -13,6 +13,8 @@ This repo includes many custom maps for Little Navmap 2.8.x :
 * Mapbox Satellite Streets
 * Mapbox Navigation Day
 * Mapbox Navigation Night
+* Amap Streets
+* Amap Satellite
 * U.S. VFR Sectionals
 * U.S. IFR Enroute Low
 * U.S. IFR Enroute High
