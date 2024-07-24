@@ -53,6 +53,8 @@ https://github.com/albar965/littlenavmap/issues/479#issuecomment-1117965128
 
 https://docs.mapbox.com/api/maps/styles/
 
+https://skyvector.com/
+
 -----
 
 Thanks for `Cloudflare worker`
