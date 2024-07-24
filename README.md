@@ -1,6 +1,6 @@
 ![](https://cdn.via.moe/img/lnm-tool.jpg)
 
-This repo includes many custom maps for Little Navmap 2.8.x :
+This repo includes many custom maps for Little Navmap 3.x.x:
 
 * Google Maps (Default)
 * Google Maps (Satellite)
