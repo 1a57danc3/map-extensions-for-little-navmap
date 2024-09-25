@@ -1,4 +1,4 @@
-![](https://cdn.via.moe/img/lnm-tool.jpg)
+![](https://cdn.taxiway.uk/img/lnm-tool.jpg)
 
 This repo includes many custom maps for Little Navmap 3.x.x:
 
@@ -76,4 +76,4 @@ addEventListener(
 )
 ```
 
-More charts please visit [https://via.moe/charts/](https://via.moe/charts/)
+More charts please visit [https://taxiway.uk/charts/](https://taxiway.uk/charts/)
