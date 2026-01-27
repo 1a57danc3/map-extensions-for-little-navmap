@@ -1,4 +1,4 @@
-![](https://cdn.taxiway.uk/img/lnm-tool.jpg)
+![](https://cdn.makeart.uk/img/lnm-tool.jpg)
 
 This repo includes many custom maps for Little Navmap 3.x.x:
 
